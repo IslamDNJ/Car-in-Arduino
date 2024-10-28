@@ -1,0 +1,3 @@
+﻿
+Segment	KEYWORD1
+Indikator	KEYWORD2
